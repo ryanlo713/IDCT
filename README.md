@@ -1,14 +1,16 @@
 # IDCT Project
 Ithkuil Docs Chinese Translation (IDCT) Project
 
-Ithkuil 文档中文翻译项目
+Ithkuil文档中文翻译项目
+
+发起自イスクイル语中文研究社团
 
 翻译成员：
 
 - 天邪弱 *Lucifer Caelius Delicatus* (@ryanlo713)
 - 待补……
 
-原文
+原文参考
 
 - Ithkuil III
 
@@ -19,7 +21,6 @@ Ithkuil 文档中文翻译项目
   - https://ithkuil.place/4/archive/
 
 ------
-
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
