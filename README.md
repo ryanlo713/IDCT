@@ -10,7 +10,9 @@ Ithkuil 文档中文翻译项目
 
 原文
 
-- [Ithkuil III]: http://ithkuil.net/
+- Ithkuil III
+
+  - http://ithkuil.net/
 
 - Ithkuil IV
 
